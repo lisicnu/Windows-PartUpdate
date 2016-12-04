@@ -1,0 +1,14 @@
+.DS_Store
+.yardoc
+doc
+coverage
+tmp
+*~
+*.swp
+*.gem
+.bundle
+Gemfile.lock
+.rvmrc
+obj/
+*.user
+.svn/
